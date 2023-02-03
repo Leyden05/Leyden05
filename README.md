@@ -11,7 +11,9 @@ Fresh out of an intensive 3-month, full-stack boot camp at UT Austin. Though we 
 *   ✉️  You can contact me at [fusionsoccer05@gmail.com](mailto:fusionsoccer05@gmail.com)
 *   🧠  I'm learning Python and C#.
 *   🤝  I'm open to collaborating on any project that involves intuitive front-end design.
-*   ⚡  Send me Dungeons & Dragons memes please -- there's a global shortage and my thirst needs to be quenched.### Skills 
+*   ⚡  Send me Dungeons & Dragons memes please -- there's a global shortage and my thirst needs to be quenched.
+
+### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
