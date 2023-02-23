@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer. Musician. Designer.
 ------------------------------
 
-Fresh out of an intensive, 3-month programming boot camp at UT Austin where I learned how to develop real-world full-stack applications. Towards the end of this bootcamp, I discovered a passion for front-end development and subsequently now specialize in Javascript, HTML, CSS, and Bootstrap.
+Fresh out of an intensive, 3-month programming boot camp at UT Austin where I learned how to develop real-world full-stack applications. Towards the end of this bootcamp, I discovered a passion for front-end development and subsequently now specialize in Javascript, HTML, CSS, and various front-end frameworks.
 
 * 🌍  I'm based in Austin, TX
 * 🖥️  See my portfolio at [https://github.com/Leyden05](http://https://seanallen19.github.io/Word-Guessing-Game/)
