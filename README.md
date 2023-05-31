@@ -7,7 +7,7 @@ Developer. Musician. Designer.
 Fresh out of an intensive, 3-month programming boot camp at UT Austin where I learned how to develop real-world full-stack applications. Towards the end of this bootcamp, I discovered a passion for front-end development and subsequently now specialize in Javascript, HTML, CSS, and various front-end frameworks.
 
 * 🌍  I'm based in Austin, TX
-* 🖥️  See my portfolio at [https://jeremycrouthamel.online/](http://https://seanallen19.github.io/Word-Guessing-Game/)
+* 🖥️  See my portfolio at [https://jeremycrouthamel.online/](https://jeremycrouthamel.online/)
 * ✉️  You can contact me at [fusionsoccer05@gmail.com](mailto:fusionsoccer05@gmail.com)
 * 🧠  I'm learning Python and C#.
 * 🤝  I'm open to collaborating on any project that involves intuitive front-end design, or game development.
