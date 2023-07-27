@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer. Musician. Designer.
 ------------------------------
 
-Fresh out of an intensive, 3-month programming boot camp at UT Austin where I learned how to develop real-world full-stack applications. Towards the end of this bootcamp, I discovered a passion for front-end development and subsequently now specialize in Javascript, HTML, CSS, and various front-end frameworks.
+Currently a Junior Web Developer at Masonry. Building professional websites from the ground up, transforming figma and sketch mock-ups into pixel-perfect webpages. Becoming an expert in CraftCMS, Next.js, React, and Angular.
 
 * 🌍  I'm based in Austin, TX
 * 🖥️  See my portfolio at [https://jeremycrouthamel.online/](https://jeremycrouthamel.online/)
