@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer. Musician. Designer.
 ------------------------------
 
-Currently a Junior Web Developer at Masonry. Building professional websites from the ground up, transforming figma and sketch mock-ups into pixel-perfect webpages. Becoming an expert in CraftCMS, Next.js, React, and Angular.
+Currently a Web Developer at Masonry. Building professional websites from the ground up, transforming figma and sketch mock-ups into pixel-perfect webpages. Becoming an expert in CraftCMS, Next.js, React, and Angular.
 
 * 🌍  I'm based in Austin, TX
 * 🖥️  See my portfolio at [https://jeremycrouthamel.online/](https://jeremycrouthamel.online/)
