@@ -10,7 +10,7 @@ Currently in Austin, TX
 
 Working on stuff here: [https://jeremycrouthamel.com/](https://jeremycrouthamel.com/)
 
-Contact me here: [fusionsoccer05@gmail.com](mailto:fusionsoccer05@gmail.com)
+Contact me here: [jcrouth05@gmail.com](mailto:jcrouth05@gmail.com)
 
 ### Skills
 
