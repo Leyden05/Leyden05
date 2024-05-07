@@ -4,9 +4,11 @@ Howdy, I'm Jeremy
 Developer. Musician. Designer.
 ------------------------------
 
-Currently a Web Developer at Masonry. Building professional websites from the ground up, transforming figma and sketch mock-ups into pixel-perfect webpages. Becoming an expert in CraftCMS, Next.js, React, and Angular.
+Currently a Web Developer at Masonry. 
 
-Currently in Austin, TX
+Building professional websites from the ground up, transforming figma and sketch mock-ups into pixel-perfect webpages. Becoming an expert in CraftCMS, Next.js, React, and Angular.
+
+Based in Austin, TX
 
 Working on stuff here: [https://jeremycrouthamel.com/](https://jeremycrouthamel.com/)
 
