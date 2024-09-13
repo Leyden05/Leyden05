@@ -6,7 +6,7 @@ Front End Developer
 
 Currently freelancing. 
 
-Building professional websites from the ground up, transforming figma and sketch mock-ups into pixel-perfect webpages. Starting to learn React, SQL, C#, and Python.
+Building professional websites from the ground up, transforming figma and sketch mock-ups into pixel-perfect webpages. Starting to learn C#, Python, and Ruby.
 
 Based in Chicago, IL.
 
